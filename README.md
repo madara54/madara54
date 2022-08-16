@@ -16,6 +16,7 @@ My name is Madara, I am a 16 year old boy currently studying at a school in Toca
 + 🧪 | Python Developer
 # 🎬 Movies/Series
 # 🌎 From Brazil
+# My discord: michael jordan#9999
 ```
 
 ### OS:
@@ -24,9 +25,7 @@ My name is Madara, I am a 16 year old boy currently studying at a school in Toca
 ### SKILL:
 <code><img height="27" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"></code>
 
-### CONTACT-ME:
-
-- Discord: michael jordan#9999
+### - Creditos by ch4zzin
 
 <!--
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
