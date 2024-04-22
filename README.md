@@ -1,8 +1,9 @@
 ### "Os melhores programadores vem do gueto" 🧬 
 
-## CONHECIMENTO EM
+##  CONHECIMENTO
 
 
+<!-- Skills: Programming Languages -->
 <div style="display: inline_block"><br/>
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badgelogo=c-sharplogoColor=white" />
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -23,3 +24,9 @@
 
 
 # apaixonado por tecnologia ❤🤞
+
+
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
