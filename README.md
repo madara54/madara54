@@ -6,8 +6,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/mclovin00666)
 
 
-<img src="https://c.tenor.com/sLZzEaG3g5QAAAAC/sword-of-the-stranger-nanashi.gif" alt= "GIF" width="400" height="300">
-
 ### "Os melhores programadores vem do gueto" 🧬 
 
 #
