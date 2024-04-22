@@ -20,4 +20,6 @@
   ###ASSEMBLY/ COBOL
 </div>
 
-apaixonado por tecnologia ❤🤞
+
+
+# apaixonado por tecnologia ❤🤞
